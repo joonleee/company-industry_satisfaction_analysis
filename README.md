@@ -1,5 +1,7 @@
 # Analyzing Satisfaction Factors by Company/Industry, a Tool
 
+[Detailed report on Notion](https://www.notion.so/pogo8/d659d18514fd4ce98a806fe417d58d39)
+
 ## **Introduction**
 
 Job satisfaction is considered to be something important by employees and employers alike. 
